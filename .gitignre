@@ -1,6 +1,0 @@
-# .gitignore
-build/
-.vscode/
-*.o
-*.out
-.DS_Store
