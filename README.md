@@ -12,7 +12,7 @@
 ## 构建与运行
 ```bash
 
-cmake -S -B build
+cmake -S . -B build
 cmake --build build
 ./build/hello
 ```
